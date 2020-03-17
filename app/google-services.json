@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "284331446981",
+    "firebase_url": "https://bootcamp-aa2d0.firebaseio.com",
+    "project_id": "bootcamp-aa2d0",
+    "storage_bucket": "bootcamp-aa2d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284331446981:android:a528fb025800cc8f0056ac",
+        "android_client_info": {
+          "package_name": "com.limaefdua.bootcamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284331446981-d78b5ubfr4uoi4606o24pp6lvtfs2dar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJtrz8T_cJUn6iYJnvyqy8X8Nmj1ZvYMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284331446981-d78b5ubfr4uoi4606o24pp6lvtfs2dar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
